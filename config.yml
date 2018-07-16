@@ -1,0 +1,1 @@
+mysql_connection: "voeDashboardUser:voeDashboard_secret@tcp(98.8.163.107)/voe_dashboard"
